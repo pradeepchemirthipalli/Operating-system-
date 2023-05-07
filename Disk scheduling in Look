@@ -1,4 +1,4 @@
-"INPUT:
+INPUT:
 
 #include<stdio.h>
 #include<stdlib.h>
@@ -92,5 +92,5 @@ Enter total disk size
 200
 Enter the head movement direction for high 1 and for low 0
 1
-Total head movement is 314"
- https://github.com/bhanu192210186/Operating-system-/blob/14fa14427aa0cb49ebd26fe1e39063c93bd6d721/diskschedulinginLOOK#:~:text=INPUT%3A,movement%20is%20314v
+Total head movement is 314
+ 
