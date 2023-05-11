@@ -10,6 +10,6 @@ echo "Enter the year"
 fi
 
 OUTPUT:
-
-365
-365 is not a leap year
+Enter the year
+2003
+2003 is not a leap year
